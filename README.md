@@ -1,2 +1,2 @@
 # DataPortofolio_Python
-Data Analysis project using Python Programming Language.
+Data Analysis Project using Python Programming Language.
