@@ -1,2 +1,3 @@
 # DataPortofolio_Python
-Data Analysis Project using Python Programming Language.
+This repository is a collection of exercises and projects I have done while learning the Full Stack Data Analytics Course in RevoU.
+ 
